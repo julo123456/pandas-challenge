@@ -1,6 +1,9 @@
 # pandas-challenge
 Module 4 challenge 
+PyCitySchools folder contains Mod 4 written report, two csv data source files, and PyCitySchools jupyter source file used for data analysis.
+
 Consulted learning assistance regarding code writing>> Ryan Ellison.
+
 URLs used for reference and ideas:
 https://www.statology.org/valueerror-if-using-all-scalar-values-you-must-pass-an-index/  << convert scalar to dictionary in DataFrame
 https://stackoverflow.com/questions/17232013/how-to-set-the-pandas-dataframe-data-left-right-alignment << alignment setup in DataFrame
