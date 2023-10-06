@@ -1,12 +1,3 @@
 # pandas-challenge
-Module 4 challenge 
-PyCitySchools folder contains Mod 4 written report, two csv data source files, and PyCitySchools jupyter source file used for data analysis.
 
-Consulted learning assistance regarding code writing>> Ryan Ellison.
-
-URLs used for reference and ideas:
-https://www.statology.org/valueerror-if-using-all-scalar-values-you-must-pass-an-index/  << convert scalar to dictionary in DataFrame
-https://stackoverflow.com/questions/17232013/how-to-set-the-pandas-dataframe-data-left-right-alignment << alignment setup in DataFrame
-https://pandas.pydata.org/docs/reference/api/pandas.Series.to_frame.html  << convert series to dataframe
-https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/  << adding new columns to dataframe
-https://re-thought.com/how-to-add-new-columns-in-a-dataframe-in-pandas/ use .loc to add new columns
+Utilized Pandas in Jupyter Notebook to perform data merging from two csv files containing students' grades from a city school. This work involved in major data merging, grouping, and summary statistics using Pandas. 
